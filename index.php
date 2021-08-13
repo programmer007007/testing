@@ -1,4 +1,4 @@
 <?php 
     phpinfo();
-    // we are in the main branch local demo
+    // we are in the est branch local demo
 ?>
