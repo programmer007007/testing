@@ -1,5 +1,4 @@
 <?php 
     phpinfo();
-    // we are in the main branch local demo
-    // local branch fake red de
+    //we are master branch
 ?>
