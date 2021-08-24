@@ -8,4 +8,4 @@ function red2(){
 
 }
 function red1(){}
-// we are the new changes
+// we are the new changes from the server
