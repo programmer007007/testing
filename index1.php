@@ -14,3 +14,7 @@ function demo(){
 function kela(){
     echo "kela";
 }
+function tom()
+{
+    // done nothing
+}
