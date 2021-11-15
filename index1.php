@@ -9,7 +9,7 @@
 // we are fourth
 // we are fifth
 function demo(){
-    echo 'Hello';
+    echo 'Hello';//ok
 }
 function kela(){
     echo "kela";
