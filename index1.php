@@ -12,7 +12,7 @@ function demo(){
     echo 'Hello';//ok1
 }
 function kela(){
-    echo "kela";
+    echo "kela";//ok1
 }
 function tom()
 {
