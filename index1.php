@@ -8,3 +8,6 @@
 // we are third
 // we are fourth
 // we are fifth
+function demo(){
+    echo 'Hello';
+}
