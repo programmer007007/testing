@@ -11,3 +11,6 @@
 function demo(){
     echo 'Hello';
 }
+function kela(){
+    echo "kela";
+}
